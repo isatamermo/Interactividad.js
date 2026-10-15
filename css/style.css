@@ -1,0 +1,17 @@
+:root {
+    color-scheme: light;
+--color-bg: #D9FFF1;
+    --color-text: #E52385;
+
+}
+
+body {
+    background-color: var(--color-bg);
+    color: var(--color-text);
+}
+
+.dark{
+    color-scheme: dark;
+    --color-bg: #E52385;
+    --color-text: #D9FFF1;
+}
